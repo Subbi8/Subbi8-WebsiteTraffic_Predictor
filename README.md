@@ -78,13 +78,13 @@ This project aims to predict website traffic using machine learning algorithms. 
 
 ## Example Plots
 
-### Actual vs Predicted Traffic
+### Train vs Test Traffic
 
-![Actual vs Predicted Traffic](plots/actual_vs_predicted.png)
+![Train vs Test](traintest.png)
 
 ### Predicted Traffic Continuation
 
-![Predicted Traffic Continuation](plots/predicted_continuation.png)
+![Predicted Traffic Continuation](output.png)
 
 ## Contributing
 
